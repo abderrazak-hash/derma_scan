@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "782589527288",
+    "project_id": "dermai-scan",
+    "storage_bucket": "dermai-scan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782589527288:android:edbea0ea51467fac37270d",
+        "android_client_info": {
+          "package_name": "scan.ai.derm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "782589527288-ri18v2esfh8aoastt91jpi8amhdr2hs4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "scan.ai.derm",
+            "certificate_hash": "783b7e00d05eda67e64f1518f244f7e6cfab8e7b"
+          }
+        },
+        {
+          "client_id": "782589527288-1ucfhaj7080o0a7jbtgieee0vjpe6hcu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrIlVuCYM9itODIDILrHqRCqCIppOEX00"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "782589527288-1ucfhaj7080o0a7jbtgieee0vjpe6hcu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
